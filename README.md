@@ -1,6 +1,6 @@
 ## 👋 Hi There!
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-male-purple) ![Relationship](https://img.shields.io/badge/Relationship-Single-orange) ![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=elcharitas&logo=linkedin) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/elcharitas) ![Twitter](https://img.shields.io/twitter/follow/elcharitas.svg?style=social)
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-male-purple) ![Relationship](https://img.shields.io/badge/Relationship-Single-orange) ![LinkedIn](https://img.shields.io/static/v1?label=linkedin&message=elcharitas&logo=linkedin) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/elcharitas) [![Twitter](https://img.shields.io/twitter/follow/elcharitas.svg?style=social)](https://twitter.com/elcharitas)
 
 Hello, I'm **Jonathan Irhodia** (elcharitas ✨), a Full Stack developer from Edo State, Nigeria.
 I have some works with **PHP**, **JavaScript** and **Node.js**, feel free to contact me if you have the same interests or some questions!
