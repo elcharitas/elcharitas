@@ -12,13 +12,7 @@ I have some works with **PHP**, **JavaScript** and **Node.js**, feel free to con
 
 ## 📫 Contact Links
 
-[Facebook][1]
-
-✉️ &nbsp; [Email][2]
-
-💬 &nbsp; [Github Issues](https://github.com/elcharitas/elcharitas/issues/me)
-
-⚡ &nbsp; &nbsp; [My Website][0]
+[Facebook][1] &nbsp; | &nbsp; [Email][2] &nbsp; | &nbsp; [Github Issues](https://github.com/elcharitas/elcharitas/issues/me) &nbsp; | &nbsp; [My Website][0]
 
 [0]: https://elcharitas.com.ng
 [1]: https://fb.me/irhodia.jonathan
