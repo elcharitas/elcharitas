@@ -12,6 +12,6 @@ Hello, I'm **Jonathan Irhodia** (elcharitas), a fullstack software developer and
 - [Github Issues](https://github.com/elcharitas/elcharitas/issues/me)
 - [My Website][0]
 
-[0]: https://elcharitas.com.ng
+[0]: https://elcharitas.dev
 [1]: https://fb.me/irhodia.jonathan
 [2]: mailto:jonathanirhodia@gmail.com
