@@ -1,0 +1,27 @@
+[submodule "elcharitas.dev"]
+	path = elcharitas.dev
+	url = https://github.com/elcharitas/elcharitas.dev
+[submodule "autonomov"]
+	path = autonomov
+	url = https://github.com/elcharitas/autonomov
+[submodule "storm_ui"]
+	path = storm_ui
+	url = https://github.com/elcharitas/storm_ui
+[submodule "lovenotes"]
+	path = lovenotes
+	url = https://github.com/elcharitas/mongodb-hackathon
+[submodule "browser.py"]
+	path = browser.py
+	url = https://github.com/elcharitas/browser.py
+[submodule "js-dot"]
+	path = js-dot
+	url = https://github.com/elcharitas/js-dot
+[submodule "waxe"]
+	path = waxe
+	url = https://github.com/elcharitas/waxe
+[submodule "cli-njk"]
+	path = cli-njk
+	url = https://github.com/elcharitas/cli-njk
+[submodule "elcharitas.github.io"]
+	path = elcharitas.github.io
+	url = https://github.com/elcharitas/elcharitas.github.io
