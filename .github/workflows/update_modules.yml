@@ -1,0 +1,8 @@
+name: Module Update Workflow
+on: [push]
+jobs:
+  Auto-Update:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git submodule foreach pull origin master
+      - run: echo "Status: ${{ job.status }}."
