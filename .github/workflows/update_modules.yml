@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: git submodule foreach pull origin master
-      - run: echo "Status: ${{ job.status }}."
+      - run: echo Done
