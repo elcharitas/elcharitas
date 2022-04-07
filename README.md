@@ -2,7 +2,7 @@
 <h3 align="center">Web3 Engineer with a Knack for JavaScript, Solidity, Python, Typescript and Rust</h3>
 
 <p align="center"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=twitter&style=for-the-badge" alt="iamelcharitas" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Profile%20views&color=0e75b6&style=flat" alt="elcharitas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Profile%20views&color=0e75b6&style=flat" alt="elcharitas" /> </p>
 
 - 🔭 I’m currently working on [Chakra Svelte](https://github.com/elcharitas/chakra-svelte)
 
@@ -23,9 +23,9 @@
 - ⚡ Fun fact **I read code more than I write it**
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&layout=compact" alt="elcharitas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&langs_count=8" alt="elcharitas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
 
