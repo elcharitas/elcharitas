@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I read code more than I write it**
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&langs_count=8" alt="elcharitas" /></p>
 
