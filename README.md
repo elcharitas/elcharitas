@@ -25,10 +25,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
 
-<br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&layout=compact" alt="elcharitas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
+
 [![elcharitas' github activity graph](https://activity-graph.herokuapp.com/graph?username=elcharitas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Languages and Tools
