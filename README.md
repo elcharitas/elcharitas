@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋, I'm Jonathan Irhodia</h2>
 <h3 align="center">Web3 Engineer with a Knack for JavaScript, Solidity, Python, Typescript and Rust</h3>
 
-<p align="left"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=twitter&style=for-the-badge" alt="iamelcharitas" /></a> </p>
+<p align="center"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=twitter&style=for-the-badge" alt="iamelcharitas" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Profile%20views&color=0e75b6&style=flat" alt="elcharitas" /> </p>
 
 - 🔭 I’m currently working on [Chakra Svelte](https://github.com/elcharitas/chakra-svelte)
 
@@ -21,10 +22,13 @@
 
 - ⚡ Fun fact **I read code more than I write it**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Profile%20views&color=0e75b6&style=flat" alt="elcharitas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=onedark" alt="elcharitas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
 
+<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&layout=compact" alt="elcharitas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
 [![elcharitas' github activity graph](https://activity-graph.herokuapp.com/graph?username=elcharitas&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Languages and Tools
@@ -32,11 +36,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/elcharitas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="elcharitas" /></a></p>
-<br><br>
-<br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&layout=compact" alt="elcharitas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elcharitas&show_icons=true&locale=en" alt="elcharitas" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
