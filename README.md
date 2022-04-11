@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma, CoffeeScript**
 
-- 👯 I’m looking to collaborate on [Autonomov](https://autonomov.vercel.dev)
+- 👯 I’m looking to collaborate on [Autonomov](https://autonomov.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/elcharitas](https://github.com/elcharitas)
 
