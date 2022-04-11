@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=twitter&style=for-the-badge" alt="iamelcharitas" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Total%20Profile%20Views&color=800080&style=flat" alt="elcharitas" /> </p>
 
-- 🔭 I’m currently working on [Chakra Svelte](https://github.com/elcharitas/chakra-svelte)
+- 🔭 I’m currently working on [Chakra UI Svelte](https://github.com/elcharitas/chakra-ui-svelte)
 
 - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma, CoffeeScript**
 
