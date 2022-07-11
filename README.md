@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&langs_count=8" alt="elcharitas" /></p>
 
-<a href="https://app.daily.dev/elcharitas"><img src="https://api.daily.dev/devcards/cf82a72702dc436bb0d59be992f22761.png?r=95r" width="400" alt="Jonathan Irhodia | Web3 Engineer's Dev Card"/></a>
+<a href="https://app.daily.dev/elcharitas"><img src="https://api.daily.dev/devcards/cf82a72702dc436bb0d59be992f22761.png?r=95r" width="300" alt="Jonathan Irhodia | Web3 Engineer's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
 
