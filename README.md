@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elcharitas&theme=dracula" alt="elcharitas" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=true&locale=en&langs_count=8" alt="elcharitas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcharitas&show_icons=false&locale=en&langs_count=10" alt="elcharitas" /></p>
 
 <a href="https://app.daily.dev/elcharitas"><img src="https://api.daily.dev/devcards/cf82a72702dc436bb0d59be992f22761.png?r=95r" width="300" alt="Jonathan Irhodia | Web3 Engineer's Dev Card"/></a>
 
