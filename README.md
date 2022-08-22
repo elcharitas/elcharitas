@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Chakra UI Svelte](https://github.com/elcharitas/chakra-ui-svelte)
 
-- 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma, CoffeeScript**
+- 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma**
 
 - 👯 I’m looking to collaborate on [Autonomov](https://autonomov.vercel.app)
 
