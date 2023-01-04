@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma**
 
-- 👯 I’m looking to collaborate on [Autonomov](https://autonomov.vercel.app)
+- 👯 I’m looking to collaborate on [Chakra UI Svelte](https://github.com/elcharitas/chakra-ui-svelte)
 
 - 👨‍💻 All of my projects are available at [https://github.com/elcharitas](https://github.com/elcharitas)
 
