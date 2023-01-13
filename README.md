@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Jonathan Irhodia</h2>
-<h3 align="center">Web3 Engineer with a Knack for JavaScript, Solidity, Python, Typescript and Rust</h3>
+<h3 align="center">Web3 Engineer with a Knack for JavaScript, Solidity, Python, Typescript and Rust.</h3>
 
 <p align="center"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=twitter&style=for-the-badge" alt="iamelcharitas" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Total%20Profile%20Views&color=800080&style=flat" alt="elcharitas" /> </p>
