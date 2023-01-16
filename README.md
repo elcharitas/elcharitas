@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React, Svelte, Solidity and all things JavaScript**
 
-- 📫 How to reach me **jonathanirhodia@gmail.com**
+- 📫 How to reach me **jonathanirhodia@gmail.com**.
 
 - 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev)
 
