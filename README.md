@@ -12,13 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/elcharitas](https://github.com/elcharitas)
 
-- 📝 I regularly write articles on [https://blog.elcharitas.dev](https://blog.elcharitas.dev)
+- 📝 Check my links https://links.dev/elcharitas
 
 - 💬 Ask me about **React, Svelte, Solidity and all things JavaScript**
 
 - 📫 How to reach me **jonathanirhodia@gmail.com**.
-
-- 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev)
 
 - ⚡ Fun fact **I read code more than I write 🤓**
 
