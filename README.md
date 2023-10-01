@@ -21,7 +21,8 @@
 </th><th>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
   
-- 📫 How to reach me **jonathanirhodia@gmail.com**.
+- 📫 How to reach me directly: **jonathanirhodia@gmail.com**.
+- 🤙🏻 Setup a short call with me on <a href="https://cal.com/elcharitas" target="blank">cal.com</a>
 - ✍🏼 You can also send a DM on <a href="https://twitter.com/iamelcharitas" target="blank">X.com</a>
 
 </th>
