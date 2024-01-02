@@ -28,3 +28,7 @@
 </th>
   </tbody>
 </table>
+
+### Important Disclaimer
+
+Unless I say otherwise, anything I say on GitHub or anywhere else are mine and belong to no other persons, companies or organizations.
