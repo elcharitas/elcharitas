@@ -2,13 +2,13 @@
 <h4 align="center">I ❤️ Typescript, Solidity, Python and Rust.</h4>
 <p align="center"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=x&style=for-the-badge" alt="iamelcharitas" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Total%20Profile%20Views&color=800080&style=flat" alt="elcharitas" /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elcharitas&" alt="elcharitas" /></p>
 
 <table>
   <tbody align="left">
-    <th>
+    <th width="50%">
 
-- 🔭 I’m currently working on [Ngyn](https://github.com/ngyn-rs/ngyn)
+- 🔭 I’m currently working on [Ngyn](https://github.com/ngyn-rs/ngyn) - a rust web framework for building web servers through a declarative and opinionated architecture.
 
 - 📝 Check my links https://links.dev/elcharitas
 
@@ -31,4 +31,4 @@
 
 ### Important Disclaimer
 
-Unless I say otherwise, anything I say on GitHub or anywhere else are mine and belong to no other persons, companies or organizations.
+Unless I say otherwise, anything I say on GitHub or anywhere else are mine and belong to no other persons, companies or organizations I belong to or work for.
