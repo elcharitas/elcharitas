@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ngyn](https://github.com/ngyn-rs/ngyn) - a rust web framework for building web servers through a declarative and opinionated architecture.
 
-- 📝 Check my links https://links.dev/elcharitas
+- 📝 Check my links https://elcharitas.wtf
 
 - 💬 Ask me about **React, Svelte, Solidity and all things JavaScript**
 
