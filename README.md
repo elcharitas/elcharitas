@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Jonathan 😇</h2>
 <h4 align="center">I ❤️ Typescript, Solidity, Python and Rust.</h4>
 <p align="center"> <a href="https://twitter.com/iamelcharitas" target="blank"><img src="https://img.shields.io/twitter/follow/iamelcharitas?logo=x&style=for-the-badge" alt="iamelcharitas" /></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Visits&color=800080&style=flat-square" alt="elcharitas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elcharitas&label=Profile%20Visits&color=800080&style=flat&abbreviated=true" alt="elcharitas" /> </p>
 
 <table>
   <tbody align="left">
