@@ -1,5 +1,5 @@
 # Hi, I'm Jonathan
-**Systems Engineer | Rust, Python & Kubernetes**
+**Fullstack Software & Systems Engineer | Rust, Python & Kubernetes**
 
 I am a Fullstack Engineer specializing in **high-performance infrastructure** and **data pipelines**. I also have strong interest in Computational Biology to solve problems in genomic data scale and reproducibility.
 
