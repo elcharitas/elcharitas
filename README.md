@@ -9,8 +9,8 @@ I focus on replacing fragile scripts with production-grade, containerized system
 
 * **Core:** Rust, Python, Linux (Bash/Shell)
 * **Infrastructure:** Docker, Kubernetes, CI/CD Actions
-* **Data:** PostgreSQL, Pandas, NumPy
-* **Web:** Svelte, TypeScript
+* **Data:** PostgreSQL, Sqlite, Pandas, NumPy
+* **Web:** React, NextJS, TypeScript
 
 ### 📫 How to reach me?
 * <a href="mailto:jonathanirhodia@gmail.com"> Send me an **Email** </a>
