@@ -3,7 +3,7 @@
 
 I am a Fullstack Engineer specializing in **high-performance infrastructure** and **data pipelines**. I also have strong interest in Computational Biology to solve problems in genomic data scale and reproducibility.
 
-I focus on replacing fragile scripts with production-grade, containerized systems.
+I focus on replacing fragile scripts with production-grade, containerized systems. I recently started spending more time on https://trypager.dev
 
 ### 🛠 Technical Arsenal
 
@@ -15,3 +15,4 @@ I focus on replacing fragile scripts with production-grade, containerized system
 ### 📫 How to reach me?
 * <a href="mailto:jonathanirhodia@gmail.com"> Send me an **Email** </a>
 * <a href="https://linkedin.com/in/elcharitas"> Send a message on **LinkedIn**</a>
+* <a href="https://x.com/iamelcharitas"> Send a message on **X**</a>
